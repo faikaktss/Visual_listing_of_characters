@@ -1,4 +1,4 @@
-# Star Wars Character Viewer
+.# Star Wars Character Viewer
 
 This project is a simple web application that displays a list of **Star Wars** characters. It uses a static dataset and does not rely on any external APIs. The application allows users to filter characters based on their homeworld and toggle the display of the character cards.
 
